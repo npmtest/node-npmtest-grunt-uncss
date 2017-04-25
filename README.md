@@ -1,8 +1,8 @@
 # npmtest-grunt-uncss
 
-test coverage for  [grunt-uncss (v0.6.1)](https://github.com/addyosmani/grunt-uncss)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-uncss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-uncss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-uncss.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-uncss)
+#### basic test coverage for  [grunt-uncss (v0.6.1)](https://github.com/addyosmani/grunt-uncss)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-uncss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-uncss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-uncss.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-uncss)
 
-A grunt task for generating CSS files containing only those styles used in your project.
+#### A grunt task for generating CSS files containing only those styles used in your project.
 
 [![NPM](https://nodei.co/npm/grunt-uncss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-uncss)
 
@@ -10,7 +10,7 @@ A grunt task for generating CSS files containing only those styles used in your 
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-uncss/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-uncss/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-uncss/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-uncss/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-uncss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-uncss/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-uncss/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-uncss/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-uncss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-uncss/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-uncss/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-uncss/build/coverage.html/index.html)
 
@@ -105,7 +105,8 @@ A grunt task for generating CSS files containing only those styles used in your 
     "scripts": {
         "test": "grunt test"
     },
-    "version": "0.6.1"
+    "version": "0.6.1",
+    "bin": {}
 }
 ```
 

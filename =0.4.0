@@ -13,7 +13,7 @@ npmtest-grunt-uncss@0.0.1 /home/travis/build/npmtest/node-npmtest-grunt-uncss
   │   │ └── signal-exit@3.0.2 
   │   ├── map-obj@1.0.1 
   │   ├── minimist@1.2.0 
-  │   ├─┬ normalize-package-data@2.3.6 
+  │   ├─┬ normalize-package-data@2.3.8 
   │   │ ├── hosted-git-info@2.4.2 
   │   │ ├─┬ is-builtin-module@1.0.0 
   │   │ │ └── builtin-modules@1.1.1 
@@ -60,7 +60,7 @@ npmtest-grunt-uncss@0.0.1 /home/travis/build/npmtest/node-npmtest-grunt-uncss
   │ ├── async@1.5.2 
   │ ├── getobject@0.1.0 
   │ └── lodash@4.3.0 
-  ├── iconv-lite@0.4.15 
+  ├── iconv-lite@0.4.16 
   ├─┬ js-yaml@3.5.5 
   │ ├─┬ argparse@1.0.9 
   │ │ └── sprintf-js@1.0.3 
